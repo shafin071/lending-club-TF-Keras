@@ -16,7 +16,7 @@ The analysis notebook consists of 6 segments:
 5. Evaluating Model Performance
 6. Prediction
 
-![ANN](C:\Users\shafi\Desktop\Portfolio Templates\Portfolio_Projects\lending_club_TF_Keras\nn.svg)
+![ANN](https://github.com/shafin071/lending-club-TF-Keras/blob/master/nn.svg)
 
 ## Result:
 Model predicted loan outcome with **0.94 precision** and **0.93 recall**
