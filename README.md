@@ -1,5 +1,7 @@
 # Loan Risk Prediction with AI 
 
+![ANN](https://github.com/shafin071/lending-club-TF-Keras/blob/master/ANN.gif)
+
 ## Situation:
 LendingClub is an American peer-to-peer lending company, headquartered in San Francisco, California. Procured a dataset curated from Lending Club that contained history of paids off & defaulted loans
 
@@ -15,8 +17,6 @@ The analysis notebook consists of 6 segments:
 4. Creating an ANN Model with TF and Keras
 5. Evaluating Model Performance
 6. Prediction
-
-![ANN](https://github.com/shafin071/lending-club-TF-Keras/blob/master/nn.svg)
 
 ## Result:
 Model predicted loan outcome with **0.94 precision** and **0.93 recall**
