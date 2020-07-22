@@ -21,8 +21,7 @@ The analysis notebook consists of 6 segments:
 ## Result:
 Model predicted loan outcome with **0.94 precision** and **0.93 recall**
 
-
-### Resources used for this project:
+## Resources used for this project:
 * 90MB LendingCLub Dataset
 * Google Colab Notebook
 * Python v3
